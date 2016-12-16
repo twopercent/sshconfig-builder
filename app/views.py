@@ -6,10 +6,12 @@ def index():
     return '''
 <html>
     <head>
-        <title>config generator</title>
+        <title>SSH config generator</title>
     </head>
     <body>
-        <h1>Complete the following form</h1>
+        <h1>SSH config generator</h1>
+
+        <p1>Enter name:</p1>
     </body>
 </html>
 '''
